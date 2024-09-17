@@ -39,6 +39,3 @@ hlint - lint tool.
 
 "Изучай Haskell во имя добра!" (Миран Липовача)
 
-
-
-![image](https://github.com/user-attachments/assets/99b91ad1-7dc6-4727-82ec-5ca3ae67d242)
